@@ -6,7 +6,7 @@
 
     <groupId>com.songoda</groupId>
     <artifactId>UltimateTimber</artifactId>
-    <version>5.1.1</version>
+    <version>5.1.1-mc1.21.10</version>
     <packaging>pom</packaging>
 
     <name>UltimateTimber</name>
@@ -23,7 +23,7 @@
         <songoda.core.version>5.0.0-SNAPSHOT</songoda.core.version>
         <vinject.version>2.0.0-SNAPSHOT</vinject.version>
         <maven.yaml.transformer.version>1.0.4</maven.yaml.transformer.version>
-        <bukkit.api.version>1.21.11-R0.1-SNAPSHOT</bukkit.api.version>
+        <bukkit.api.version>1.21.10-R0.1-SNAPSHOT</bukkit.api.version>
         <placeholderapi.version>2.11.7</placeholderapi.version>
     </properties>
 
