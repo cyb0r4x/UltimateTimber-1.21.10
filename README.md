@@ -1,54 +1,13 @@
-<!--suppress HtmlDeprecatedAttribute -->
-<div align="center">
-<img src="https://songoda-reborn.com/branding/songoda-reborn-orange.svg" width="512px" style="padding-top: 30px">
-</div>
+# UltimateTimber für homestead.cycube.net
 
-# UltimateTimber
+Dieses Repository enthält eine inoffizielle Fork-Version von UltimateTimber für den Minecraft-Server **homestead.cycube.net**.
 
-> **[Official UltimateTimber website][Plugin page]**
->
-> For the latest downloads, supported Minecraft versions, documentation,
-> installation instructions, compatibility information, updates, and support,
-> visit the Songoda Reborn page above.
+## Über diesen Fork
 
-UltimateTimber is a Minecraft tree-felling server plugin developed and maintained by **Songoda Reborn**.
+Dieser Fork basiert auf dem ursprünglichen UltimateTimber-Projekt und wird unabhängig davon für den Einsatz auf homestead.cycube.net gepflegt. Er ist keine neue Originalentwicklung und kein offizieller Build des ursprünglichen Projekts. Änderungen, Builds und Releases in diesem Repository gehören ausschließlich zu diesem Fork und sind nicht mit den offiziellen Veröffentlichungen des Originals gleichzusetzen.
 
-It provides tree detection, animated falling blocks, custom drops, configurable sounds,
-and alternative tree-cutting behavior.
+Der Fork wird für den Server Homestead angepasst. Der Versionsstand hier ist auf Minecraft/Paper 1.21.10 ausgerichtet.
 
-<div align="center">
+## Originalprojekt
 
-[![Discord][Discord shield]][Discord invite]
-<br>
-[![Latest version][Latest version shield]][Plugin page]
-[![bStats Servers][bStats shield]][bStats page]
-</div>
-
-## Downloads
-
-Downloads and supported Minecraft versions are available from the
-[Songoda Reborn plugin page][Plugin page].
-
-## Documentation
-
-The [UltimateTimber wiki][Plugin wiki] is maintained by Songoda Reborn and covers
-installation, configuration, commands, permissions, dependencies, and compatibility.
-
-## Support
-
-For help with UltimateTimber, join our [Discord server][Discord invite].
-
-## Suggestions
-
-Share feature suggestions and feedback through our [Discord server][Discord invite].
-
-
-[Plugin page]: https://songoda-reborn.com/plugins/ultimatetimber
-[Plugin wiki]: https://songoda-reborn.com/plugins/ultimatetimber/wiki
-[Discord invite]: https://discord.gg/vtuJUfebrd
-
-[Discord shield]: https://img.shields.io/discord/1526667086376603772?color=5865F2&label=Discord&logo=discord&logoColor=5865F2
-[Latest version shield]: https://img.shields.io/badge/dynamic/xml?style=flat&color=blue&logo=github&logoColor=white&label=Latest&url=https%3A%2F%2Fraw.githubusercontent.com%2FSongoda-Plugins%2Fcom.songoda%2Fmain%2FUltimateTimber%2Fpom.xml&query=%2F*%5Blocal-name()%3D'project'%5D%2F*%5Blocal-name()%3D'version'%5D
-
-[bStats page]: https://bstats.org/plugin/bukkit/UltimateTimber/4184
-[bStats shield]: https://img.shields.io/bstats/servers/4184?label=Servers
+Das ursprüngliche UltimateTimber wurde von **Songoda Reborn (Songoda-Plugins)** erstellt: [Songoda-Plugins/UltimateTimber](https://github.com/Songoda-Plugins/UltimateTimber).
